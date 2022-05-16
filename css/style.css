@@ -8,11 +8,11 @@ html {
 }
 
 body {
-    background-color: green;
+    background-color: grey;
 }
 
 .header {
-    font-size: 3em;
+    font-size: 4em;
     display: flex;
     min-height: 100px;
     justify-content: center;
